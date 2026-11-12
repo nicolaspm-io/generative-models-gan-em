@@ -1,0 +1,19 @@
+# Datasets (downloaded automatically by torchvision)
+data/
+
+# Training outputs
+experimentations/
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets and OS files
+.env
+.DS_Store
